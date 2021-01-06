@@ -9,9 +9,6 @@ I'm SlowSail,studying in University of science and technology of China, and my r
 -   :seedling: Preparing for being a programmer
 -   :man: Pronouns: he/him
 -   🌱 I’m currently learning  EPICS and JAVA
--   😄 Pronouns: Young man
-
-
 -   ⚡ Fun fact: I love literature but I became an engineering student
 
 
