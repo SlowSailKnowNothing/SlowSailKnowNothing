@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm SlowSail,studying in University of Science and Technology of China, and my research direction is accelerator control.Programming and manipulating X-ray are both cool things!
+I'm SlowSail,a Stoic.
 
 -   :hammer_and_pick: JAVA, a little bit Python/JavaScript
 -   :pencil2: Windows/centos7/IDEA/VSCode
