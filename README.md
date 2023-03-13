@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm SlowSail,a Stoic.
+I'm SlowSail,a Stoic(to be).
 
 -   :hammer_and_pick: JAVA, a little bit Python/JavaScript
 -   :pencil2: Windows/centos7/IDEA/VSCode
