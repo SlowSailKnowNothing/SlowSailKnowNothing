@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-
-I'm SlowSail,a Stoic(to be).
-
--   :hammer_and_pick: JAVA, a little bit Python/JavaScript
--   :pencil2: Windows/centos7/IDEA/VSCode
--   :seedling: Preparing for being a programmer
--   :man: Pronouns: he/him
--   🌱 I’m currently learning  EPICS and JAVA
--   ⚡ Fun fact: I love literature but I became an engineering student
+大家好，这里是小黑的github。这里的仓库很杂，你能看到我很久之前的文档。如果EPICS你不懂没关系，那是我研究生学习的内容。
+希望能够和大家一起成为Builder,而不仅仅是influencer。
 
 
 
